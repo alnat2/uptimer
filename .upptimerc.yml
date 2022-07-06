@@ -24,10 +24,10 @@ status-website:
   baseUrl: /uptimer
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptimer
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** is the open-source uptime monitor, powered entirely by GitHub."
+  introMessage: This is a sample status page . No server required — just GitHub Actions, Issues, and Pages.
   navbar:
-    - title: Status
+    - title: Stata
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
