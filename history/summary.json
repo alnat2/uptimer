@@ -2,7 +2,7 @@
   {
     "name": "my portfolio",
     "url": "https://design.beloglazkin.online",
-    "icon": "https://favicons.githubusercontent.com/design.beloglazkin.online",
+    "icon": "https://icons.duckduckgo.com/ip3/design.beloglazkin.online.ico",
     "slug": "my-portfolio",
     "status": "up",
     "uptime": "99.49%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.49%",
     "time": 872,
-    "timeDay": 1074,
-    "timeWeek": 918,
-    "timeMonth": 823,
+    "timeDay": 858,
+    "timeWeek": 892,
+    "timeMonth": 828,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2022-09-23": 216,
