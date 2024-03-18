@@ -4,7 +4,7 @@
     "url": "https://design.beloglazkin.site",
     "icon": "https://icons.duckduckgo.com/ip3/design.beloglazkin.site.ico",
     "slug": "my-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 827,
     "timeYear": 846,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2023-11-22": 373,
       "2023-11-21": 292,
       "2023-06-09": 32,
