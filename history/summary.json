@@ -1,10 +1,10 @@
 [
   {
     "name": "my portfolio",
-    "url": "https://design.beloglazkin.website",
-    "icon": "https://icons.duckduckgo.com/ip3/design.beloglazkin.website.ico",
+    "url": "https://design.beloglazkin.digital",
+    "icon": "https://icons.duckduckgo.com/ip3/design.beloglazkin.digital.ico",
     "slug": "my-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 906,
     "timeYear": 927,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-05-27": 32,
       "2025-04-16": 29,
       "2025-03-24": 37,
