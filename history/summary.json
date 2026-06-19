@@ -6,10 +6,10 @@
     "slug": "my-portfolio",
     "status": "down",
     "uptime": "87.44%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "54.63%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "54.61%",
     "time": 929,
     "timeDay": 0,
     "timeWeek": 894,
@@ -188,7 +188,7 @@
       "2026-04-08": 501,
       "2026-04-22": 77,
       "2026-06-13": 67,
-      "2026-06-19": 0
+      "2026-06-19": 62
     }
   }
 ]
