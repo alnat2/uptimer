@@ -4,17 +4,17 @@
     "url": "https://design.beloglazkin.work",
     "icon": "https://icons.duckduckgo.com/ip3/design.beloglazkin.work.ico",
     "slug": "my-portfolio",
-    "status": "down",
-    "uptime": "87.44%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "54.61%",
-    "time": 929,
-    "timeDay": 0,
-    "timeWeek": 894,
-    "timeMonth": 838,
-    "timeYear": 950,
+    "status": "up",
+    "uptime": "87.41%",
+    "uptimeDay": "57.67%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "54.51%",
+    "time": 928,
+    "timeDay": 690,
+    "timeWeek": 869,
+    "timeMonth": 833,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2025-07-23": 24,
       "2025-09-05": 150,
@@ -188,7 +188,7 @@
       "2026-04-08": 501,
       "2026-04-22": 77,
       "2026-06-13": 67,
-      "2026-06-19": 62
+      "2026-06-19": 609
     }
   }
 ]
