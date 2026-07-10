@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/design.beloglazkin.work.ico",
     "slug": "my-portfolio",
     "status": "down",
-    "uptime": "87.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "54.51%",
+    "uptime": "87.57%",
+    "uptimeDay": "73.67%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "54.44%",
     "time": 928,
-    "timeDay": 673,
-    "timeWeek": 762,
-    "timeMonth": 832,
+    "timeDay": 0,
+    "timeWeek": 742,
+    "timeMonth": 836,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2025-07-23": 24,
@@ -188,7 +188,9 @@
       "2026-04-08": 501,
       "2026-04-22": 77,
       "2026-06-13": 67,
-      "2026-06-19": 609
+      "2026-06-19": 609,
+      "2026-07-10": 111,
+      "2026-07-09": 269
     }
   }
 ]
